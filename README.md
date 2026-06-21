@@ -66,7 +66,7 @@ The dataset contains movie-related information such as:
   
 ## 👩‍💻 Author
 **Tanvi Rawat**
-Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast
+|Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast
 
 GitHub: https://github.com/rawattanvi7-eng
 LinkedIn: www.linkedin.com/in/tanvi-rawat7
